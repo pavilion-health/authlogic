@@ -1,4 +1,4 @@
-require "scrypt"
+require "scrypt-ruby"
 
 module Authlogic
   module CryptoProviders
